@@ -1,11 +1,11 @@
 ---
-title: "Computer Vision Intern"
-description: "IIT Madras (India)"
-dateString: May 2019 - July 2019
+title: "Functional Leader For Platform"
+description: "SYC Sistemas y Compuetadores (Colombia)"
+dateString: Jun 2008 - May 2022
 draft: false
-tags: []
+tags: ["Azure", "Power BI", "Agile"]
 showToc: false
-weight: 305
+weight: 303
 --- 
 ### 🔗 [GitHub](https://github.com/arkalim/Tensorflow/tree/master/VLocNet)
 

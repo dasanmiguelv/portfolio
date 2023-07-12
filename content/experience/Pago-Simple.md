@@ -1,9 +1,9 @@
 ---
-title: "Backend Engineer"
-description: "BuyerAssist (India)"
-dateString: June 2021 - Aug 2022
+title: "Demand Planning Manager"
+description: "Pago Simple S.A (Colombia)"
+dateString: May 2022 - Feb 2023
 draft: false
-tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "AWS", "OAuth2.0"]
+tags: ["Jira", ]
 showToc: false
 weight: 302
 --- 

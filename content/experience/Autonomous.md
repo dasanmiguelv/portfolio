@@ -1,9 +1,9 @@
 ---
-title: "DevOps Intern"
-description: "16Bit.ai (Toronto)"
-dateString: Sep 2022 - Ongoing
+title: "Data Scientist"
+description: "Freelance Data Scientist Autonomous"
+dateString: Feb 2023 - Ongoing
 draft: false
-tags: ["Python", "Linux", "Kubernetes", "Docker", "GCP", "Automation", "FastAPI"]
+tags: ["Python", "SQL", "ETL"]
 showToc: false
 weight: 301
 --- 
@@ -20,4 +20,4 @@ weight: 301
 - Led and mentored a team of 3 junior interns in successfully designing, developing, and seamlessly integrating a sophisticated AI pipeline with the product.
 - Building a cloud-native version of the product on Kubernetes with GitOps principles, to facilitate easy deployment and management of multiple instances of the product on the cloud.
 
-![](/experience/16bit/img1.jpeg#center)
+![](/experience/Autonomous/img1.jpeg#center)
