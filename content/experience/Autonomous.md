@@ -11,6 +11,3 @@ weight: 301
 ### Description
 
 - Strategically optimized the product's infrastructure on AWS, resulting in a remarkable cost reduction of over 50% while fortifying network security.
-
-
-![](/experience/Autonomous/img1.jpeg#center)
