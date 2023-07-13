@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dasanmiguelv.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Advanced Excel</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/advanced-excel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/advanced-excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Agile</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/agile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,24 +34,6 @@
     </item>
     
     <item>
-      <title>Arduino</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/arduino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automation</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/automation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/automation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AWS</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,29 +43,11 @@
     </item>
     
     <item>
-      <title>Azure</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/azure/</link>
+      <title>Azure DevOps</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/azure-devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/bash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/c&#43;&#43;/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/c&#43;&#43;/</guid>
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/azure-devops/</guid>
       <description></description>
     </item>
     
@@ -88,38 +61,11 @@
     </item>
     
     <item>
-      <title>CNN</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/cnn/</link>
+      <title>Data Analysis</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/cnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CRNN</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/crnn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/crnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/css/</guid>
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/data-analysis/</guid>
       <description></description>
     </item>
     
@@ -160,24 +106,6 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drone</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/drone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/drone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DVA</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/dva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -196,38 +124,11 @@
     </item>
     
     <item>
-      <title>Frontend Development</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/frontend-development/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/frontend-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub Action</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/github-action/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/github-action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GitHub Actions</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/github-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dasanmiguelv.github.io/portfolio/tags/github-actions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/html/</guid>
       <description></description>
     </item>
     
@@ -241,15 +142,6 @@
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jira</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -259,20 +151,20 @@
     </item>
     
     <item>
-      <title>LSTM</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/lstm/</link>
+      <title>Jupyter</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/jupyter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/lstm/</guid>
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/jupyter/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MkDocs</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/mkdocs/</link>
+      <title>KMeans</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/kmeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/mkdocs/</guid>
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/kmeans/</guid>
       <description></description>
     </item>
     
@@ -295,11 +187,20 @@
     </item>
     
     <item>
-      <title>NodeJS</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/nodejs/</link>
+      <title>Numpy</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/numpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/nodejs/</guid>
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/pandas/</guid>
       <description></description>
     </item>
     
@@ -313,11 +214,29 @@
     </item>
     
     <item>
+      <title>Powe BI</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/powe-bi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/powe-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Power BI</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/power-bi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dasanmiguelv.github.io/portfolio/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/project-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/project-management/</guid>
       <description></description>
     </item>
     
@@ -340,33 +259,6 @@
     </item>
     
     <item>
-      <title>Raspberry Pi</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/raspberry-pi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/react/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RegEx</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/regex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/regex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>REST API</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/rest-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -376,20 +268,38 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SAA</title>
       <link>https://dasanmiguelv.github.io/portfolio/tags/saa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dasanmiguelv.github.io/portfolio/tags/saa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/scrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/seaborn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SkLearn</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/sklearn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/sklearn/</guid>
       <description></description>
     </item>
     
@@ -430,11 +340,11 @@
     </item>
     
     <item>
-      <title>Web Development</title>
-      <link>https://dasanmiguelv.github.io/portfolio/tags/web-development/</link>
+      <title>Yellowbrick</title>
+      <link>https://dasanmiguelv.github.io/portfolio/tags/yellowbrick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dasanmiguelv.github.io/portfolio/tags/web-development/</guid>
+      <guid>https://dasanmiguelv.github.io/portfolio/tags/yellowbrick/</guid>
       <description></description>
     </item>
     

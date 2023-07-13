@@ -100,8 +100,8 @@
   "keywords": [
     "DL", "AI", "Python", "PyTorch"
   ],
-  "articleBody": "🔗 Colab Notebook 🔗 Blog Post Description In this project, I trained a neural network to localize key points on faces. Resnet-18 was used as the model with some slight modifications to the input and output layer. The model was trained on the official DLib Dataset containing 6666 images along with corresponding 68-point landmarks for each face. Additionally, I wrote a custom data preprocessing pipeline in PyTorch to increase variance in the input images to help the model generalize better. The neural network was trained for 30 epochs before it reached the optima.\nDuring inference, OpenCV Harr Cascades are used to detect faces in the input images. Detected faces are then cropped, resized to (224, 224), and fed to our trained neural network to predict landmarks in them. The predicted landmarks in the cropped faces are then overlayed on top of the original image.\n",
-  "wordCount" : "144",
+  "articleBody": "🔗 Colab Notebook 🔗 Blog Post Description In this project, I trained a neural network to localize key points on faces. Resnet-18 was used as the model with some slight modifications to the input and output layer. The model was trained on the official DLib Dataset containing 6666 images along with corresponding 68-point landmarks for each face. Additionally, I wrote a custom data preprocessing pipeline in PyTorch to increase variance in the input images to help the model generalize better. The neural network was trained for 30 epochs before it reached the optima.\nDuring inference, OpenCV Harr Cascades are used to detect faces in the input images. Detected faces are then cropped, resized to (224, 224), and fed to our trained neural network to predict landmarks in them. The predicted landmarks in the cropped faces are then overlayed on top of the original image.\nusers don’t have to install any dependency. They can just use the docker run command with the path to their clippings file along with their Notion API key and database ID.\nIn this project, I implemented the paper Show, Attend and Tell: Neural Image Caption Generation with Visual Attention. The neural network, a combination of CNN and LSTM, was trained on the MS COCO dataset and it learns to generate captions from images.\nPresented in the 4th International and 19th National Conference on Machine and Mechanisms (iNaCoMM 2019)\nPublished in the Springer 2019\n",
+  "wordCount" : "237",
   "inLanguage": "en",
   "image":"https://dasanmiguelv.github.io/portfolio/projects/face-landmarks-detection/cover.jpg","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -176,11 +176,6 @@
                     <span>Experience</span>
                 </a>
             </li>
-            <li>
-                <a href="https://dasanmiguelv.github.io/portfolio/search" title="Search (Alt &#43; /)" accesskey=/>
-                    <span>Search</span>
-                </a>
-            </li>
         </ul>
     </nav>
 </header>
@@ -210,6 +205,14 @@ May 2020
 <h2 id="description">Description<a hidden class="anchor" aria-hidden="true" href="#description">#</a></h2>
 <p>In this project, I trained a neural network to localize key points on faces. <strong>Resnet-18</strong> was used as the model with some slight modifications to the input and output layer. The model was trained on the official <strong>DLib Dataset</strong> containing <strong>6666 images</strong> along with corresponding <strong>68-point landmarks</strong> for each face. Additionally, I wrote a custom data preprocessing pipeline in <strong>PyTorch</strong> to increase variance in the input images to help the model generalize better. The neural network was trained for 30 epochs before it reached the optima.</p>
 <p>During inference, <strong>OpenCV Harr Cascades</strong> are used to detect faces in the input images. Detected faces are then cropped, resized to (224, 224), and fed to our trained neural network to predict landmarks in them. The predicted landmarks in the cropped faces are then overlayed on top of the original image.</p>
+<p>users don’t have to install any dependency. They can just use the <code>docker run</code> command with the path to their clippings file along with their Notion API key and database ID.</p>
+<p>In this project, I implemented the paper <strong><a href="https://arxiv.org/abs/1502.03044">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a></strong>. The neural network, a combination of <strong>CNN</strong> and <strong>LSTM</strong>, was trained on the <strong>MS COCO</strong> dataset and it learns to generate captions from images.</p>
+<blockquote>
+<p>Presented in the 4th International and 19th National Conference on Machine and Mechanisms (<strong>iNaCoMM 2019</strong>)</p>
+</blockquote>
+<blockquote>
+<p>Published in the <strong>Springer 2019</strong></p>
+</blockquote>
 
 
   </div>

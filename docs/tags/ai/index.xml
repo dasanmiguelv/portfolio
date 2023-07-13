@@ -43,39 +43,12 @@
     </item>
     
     <item>
-      <title>Automated Image Captioning (Bachelor Thesis)</title>
-      <link>https://dasanmiguelv.github.io/portfolio/projects/automated-image-captioning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/projects/automated-image-captioning/</guid>
-      <description>Can computers summarize the contents of an image?</description>
-    </item>
-    
-    <item>
       <title>Face Landmarks Detection using CNN</title>
       <link>https://dasanmiguelv.github.io/portfolio/projects/face-landmarks-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dasanmiguelv.github.io/portfolio/projects/face-landmarks-detection/</guid>
       <description>Can computers really understand the human face?</description>
-    </item>
-    
-    <item>
-      <title>Gaze-tracking Goggles</title>
-      <link>https://dasanmiguelv.github.io/portfolio/projects/gaze-tracking-goggles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/projects/gaze-tracking-goggles/</guid>
-      <description>Smart Goggles for Gaze Analysis</description>
-    </item>
-    
-    <item>
-      <title>SEBART-Pro</title>
-      <link>https://dasanmiguelv.github.io/portfolio/projects/sebart-pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dasanmiguelv.github.io/portfolio/projects/sebart-pro/</guid>
-      <description>A smart self-balancing robot!</description>
     </item>
     
   </channel>
