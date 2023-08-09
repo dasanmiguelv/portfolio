@@ -5,7 +5,7 @@ dateString: May 2023
 draft: false
 tags: ["Python", "SkLearn", "KMeans", "Yellowbrick", "Jupyter", "Pandas", "Numpy", "Seaborn"]
 showToc: false
-weight: 202
+weight: 204
 cover:
     image: "projects/customer-segmentation/cluster-distribution3D.png"
 --- 

@@ -1,11 +1,11 @@
 ---
 title: "Behaviour Buying for BRITISH AIRWAYS"
-description: "Sentiment Analysis of purchasing behaviour bookings for BRITISH AIRWAYS !"
+description: "Analysis behaviour buying for BRITISH AIRWAYS !"
 dateString: Jul 2023
 draft: false
 tags: ["Python", "Machine Learning", "Data Science", "Data Visualisation"]
 showToc: false
-weight: 201
+weight: 202
 cover:
     image: "projects/BA_behaviour-buying/booking.jpg"
 --- 
@@ -13,7 +13,10 @@ cover:
 
 ## Description
 This project is part of a program created by **Forage** that seeks to create connections between the largest companies and candidates who lack these connections.
+These programs are certified, you can consult it **[here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_HMn4kpBMPRFe6rGnf_1691544594630_completion_certificate.pdf).**
+
 This time, I had the opportunity to step into the shoes of a **British Airways** team member and complete tasks that replicate the work that the Data Science team does every day in British Airways.
+
 
 The main objective was to build a predictive model that would allow us to evaluate how each variable contributes to the power of the model and determine if we could use them in a feasible way to predict future results about our purchasing behavior customers.
 
