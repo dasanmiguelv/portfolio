@@ -22,7 +22,5 @@ When the data were clean, perform my own analysis to uncover some insights. As a
 
 As a result of the analysis present a summary with findings containing visualizations and metrics to explain key points about what customers were talking about the customer experience and British Airways.
 
-![word cloud](projects/BA_sentimente_analysis_reviews/negative-topic1.png)
-
 This project is part of a virtual work experience program created by **Forage**.
 These programs are certified, you can consult it **[here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_HMn4kpBMPRFe6rGnf_1691544594630_completion_certificate.pdf).**

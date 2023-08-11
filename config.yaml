@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true
     title: "Diego Sanmiguel"
-    subtitle: Hi 👋! I’m Diego Sanmiguel. I’m passionate about the world of data and am currently focusing on becoming a data scientist. My goal is to combine my project management experience with my data science skills to address complex business challenges.
+    subtitle:  ¡Hi! I’m Diego. I’m passionate about using data to make a positive impact in the world. I have developed personal projects in a variety of areas. I also have extensive experience in project management and have an ability to lead and motivate teams to achieve goals.
     imageUrl: "home/WhatsApp Image 2022-01-06 at 3.42.45 PM.jpeg"
     imageWidth: 220
     imageHeight: 220
