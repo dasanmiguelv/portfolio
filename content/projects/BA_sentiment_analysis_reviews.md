@@ -1,7 +1,7 @@
 ---
 title: "Sentiment Analysis | Reviews for BRITISH AIRWAYS"
 description: "Scrape and analyse customer review data to unconver findings for BRITISH AIRWAYS"
-dateString: Agu 2023
+dateString: Jul 2023
 draft: false
 tags: ["Web Scraping", "Data Manipulation", "Data Science", "Data Visualisation", "NLP"]
 showToc: false
@@ -9,7 +9,7 @@ weight: 201
 cover:
     image: "projects/BA_sentimente_analysis_reviews/reviewsBA.avif"
 --- 
-### 🔗 [View code on Github](https://github.com/dasanmiguelv/nlp/tree/main)
+### 🔗 [View code on Github](https://github.com/dasanmiguelv/nlp/tree/main/reviews-BA)
 
 ## Description
 As a data scientist at BA, it was my job to apply my analytical skills to influence real life multi-million-pound decisions from day one, making a tangible impact on the business as your recommendations, tools and models drive key business decisions, reduce costs and increase revenue.

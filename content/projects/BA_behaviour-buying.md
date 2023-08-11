@@ -9,7 +9,7 @@ weight: 202
 cover:
     image: "projects/BA_behaviour-buying/booking.jpg"
 --- 
-### 🔗 [View code on Github](https://github.com/dasanmiguelv/clustering)
+### 🔗 [View code on Github](https://github.com/dasanmiguelv/supervised-machine-learning/tree/main/behaviour-buying)
 
 ## Description
 This project is part of a program created by **Forage** that seeks to create connections between the largest companies and candidates who lack these connections.
