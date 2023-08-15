@@ -26,4 +26,6 @@ First, I pre-processed the data using automation tools like ydataprofiling to ge
 
 Once the data was pre-processed, we went on to train the model, using a random forest model which was evaluated using cross-validation techniques and evaluation metrics.
 
+## Outcome
+
 As a result of the implementation of the model, an accuracy of 85% was obtained and the company was informed which of the characteristics of the data were most important to obtain these reuses, in turn, recommendations were delivered on features that are not as relevant and could be evaluated to improve the quality of service.

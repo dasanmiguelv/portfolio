@@ -19,6 +19,7 @@ Once I had the dataset, I needed to prepare it. The data was very messy and cont
 I performed data cleanup in order to prepare the data for analysis, using techniques to remove punctuation marks, emojis and stop words, tokenize and lemmatize. 
 
 When the data were clean, perform my own analysis to uncover some insights. As a starting point, I applied topic modelling, sentiment analysis and wordclouds to provide some insight into the content of the reviews.
+# Outcome
 
 As a result of the analysis present a summary with findings containing visualizations and metrics to explain key points about what customers were talking about the customer experience and British Airways.
 
