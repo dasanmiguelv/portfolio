@@ -16,11 +16,11 @@ menu:
     - identifier: experience
       name: Experience
       url: /experience
+      weight: 50
+    - identifier: mL-Engineer-on-GCP
+      name: ML-Engineer-on-GCP
+      url: /mL-Engineer-on-GCP
       weight: 40
-    #- identifier: search
-    #  name: Search
-    #  url: /search
-    #  weight: 50
     # - identifier: tags
     #   name: Tags
     #   url: /tags
