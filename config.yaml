@@ -12,7 +12,7 @@ menu:
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 30
+      weight: 20
     - identifier: experience
       name: Experience
       url: /experience
@@ -20,6 +20,10 @@ menu:
     - identifier: mL-Engineer-on-GCP
       name: ML-Engineer-on-GCP
       url: /mL-Engineer-on-GCP
+      weight: 30
+    - identifier: bI-Analytics
+      name: BI-Analytics
+      url: /bI-Analytics
       weight: 40
     # - identifier: tags
     #   name: Tags
