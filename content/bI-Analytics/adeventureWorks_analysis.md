@@ -9,7 +9,7 @@ weight: 202
 cover:
     image: "bI-Analytics/adventureWorks/dashboard.png"
 --- 
-### 🔗 [View Dashboard](https://public.tableau.com/views/customer-engagement-365/Overview?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+### 🔗 [View Dashboard](https://github.com/dasanmiguelv/data-analytics/tree/main/adventure-works/visualizations)
 
 ## Description
 In this project I realized all the process that involves making data analytics for a complex company documented and published by Microsoft as it is AdventureWorks
