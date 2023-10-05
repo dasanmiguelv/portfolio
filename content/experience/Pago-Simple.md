@@ -1,5 +1,5 @@
 ---
-title: "Demand Planning Profesional"
+title: "Professional of Management of the Demand"
 description: "Pago Simple S.A (Colombia)"
 dateString: May 2022 - Feb 2023
 draft: false
