@@ -1,5 +1,5 @@
 ---
-title: "Customer Behavior Analysis 365"
+title: "Customer Behavior Analysis"
 description: "Unlock business information from student data in 365 career"
 dateString: Oct 2023
 draft: false
