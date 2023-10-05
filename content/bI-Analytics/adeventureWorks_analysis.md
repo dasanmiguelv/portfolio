@@ -9,23 +9,23 @@ weight: 202
 cover:
     image: "bI-Analytics/adventureWorks/dashboard.png"
 --- 
-### 🔗 [View Dashboard](https://github.com/dasanmiguelv/data-analytics/tree/main/adventure-works)
+### 🔗 [View Dashboard](https://public.tableau.com/views/customer-engagement-365/Overview?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Description
-I analyzed data from 365 to understand how students learn and engage on their platform.
-Also, I created a professional panel in Tableau entirely from scratch, including:
-key performance indicators and powerful visualizations with real analytical potential.
-Finally, this lab gave me the possibility to get valuable business information to help a company grow and develop.
+In this project I realized all the process that involves making data analytics for a complex company documented and published by Microsoft as it is AdventureWorks
 
-## Sections
+* I had the opportunity to understand the database schema in SQL Server using Microsoft SQL Server Management Studio,
 
-First understand the case study by analyzing the commitment of 365 students by defining key parameters.
-Creating questions to monitor with our control panel.
-I used the Student Engagement Database and used SQL to extract relevant information from it.
-Then came the best part of building the control panel in Tableau.
-I built individual charts and then combined them into a panel.
+* I created the diagrams entity relationship of the tables of the different areas of the company,
 
+* I built advanced SQL queries to prepare the data needed to develop AdventureWorks Data Analytics,
+
+* I explored and transformed the data into connected Power BI Power Query from SQL Server, to build an analytical data model of AdventureWorks.
+
+* I enriched the data model with Power BI DAX to create new information that answers many questions in the areas of Purchasing, Production, Warehouse, Sales, Human Resources and Customers of the company AdventureWorks.
+
+* I will develop the visualization of information with modern, intuitive and high-impact reports in Power BI to tell the history of the company with data and to understand the past, present and future of management.
 
 ## Conclusion
 
-One of the most exciting aspects of the Customer Behavior Analysis is identify potential customers, mejorar la retención de clientes y aumentar la satisfacción del cliente.
+In this project I demonstrate the ability to apply data analysis techniques and tools to solve complex problems. I identified opportunities for improvement in the areas of purchasing, production, warehouse, sales, human resources and customers. Reports were generated to understand the past, present and future of the management of the company.
