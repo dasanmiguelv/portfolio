@@ -1,9 +1,9 @@
 ---
 title: "Data Scientist / Analyst BI"
-description: "Freelance Data Scientist/Analyst Autonomous"
+description: "Academic Data Scientist/Analyst"
 dateString: Feb 2023 - Ongoing
 draft: false
-tags: ["Python", "ML", "SQL", "Powe BI", AWS", "GitHub", "GCP"]
+tags: ["Python", "ML", "SQL", "Powe BI", AWS", "GitHub", "GCP", "AI"]
 showToc: false
 weight: 301
 --- 

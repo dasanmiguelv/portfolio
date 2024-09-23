@@ -25,6 +25,10 @@ menu:
       name: BI-Analytics
       url: /bI-Analytics
       weight: 40
+    - identifier: blog
+      name: blog
+      url: /blog
+      weight: 60
     # - identifier: tags
     #   name: Tags
     #   url: /tags
