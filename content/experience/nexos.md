@@ -1,7 +1,7 @@
 ---
 title: "Business Analyst"
 description: "Nexos Software"
-dateString: Feb 2024 - Ongoing
+dateString: Feb 2024 - Present
 draft: false
 tags: ["MySQL", "Figma", "Flowchart and process modeling", "QA"]
 showToc: false
