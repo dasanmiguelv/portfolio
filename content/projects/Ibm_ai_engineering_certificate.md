@@ -9,7 +9,7 @@ weight: 201
 cover:
     image: "projects/Ibm_ai_engineering_certificate/0813ca19-1380-4b02-a44c-bf9890d4bfee.png"
 --- 
-### 🔗 [Link to Certification Progress/Results](https://github.com/dasanmiguelv/supervised-machine-learning/tree/main/behaviour-buying)
+### 🔗 [Link to Certification Progress/Results](https://github.com/dasanmiguelv/Ibm_ai_engineering_certification)
 
 ### Context and Objective
 As part of my transition into Data Science, I am currently pursuing the IBM Professional Certificate in AI Engineering. This program focuses on applying AI and machine learning techniques to solve complex problems, covering areas such as deep learning, neural networks, and natural language processing.
