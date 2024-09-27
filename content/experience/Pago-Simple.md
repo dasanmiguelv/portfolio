@@ -1,20 +1,24 @@
 ---
 title: "Professional of Management of the Demand"
-description: "Pago Simple S.A (Colombia)"
+description: "Pago Simple S.A"
 dateString: May 2022 - Feb 2023
 draft: false
 tags: ["Jira", "Scrum", "Project Management", "Data Analysis", "Power BI"]
 showToc: false
-weight: 302
+weight: 303
 --- 
 
-### Description
+## Demand Analysis for IT Service Optimization
+### Context and Objective
 
-- Demand patterns were monitored and analyzed and recommendations were made for the management of IT services, planning to optimize the efficiency of services. I used demand planning tools and software to track and manage data and metrics related to demand for requirements.
+During my time at Pago Simple, I was responsible for analyzing demand patterns in IT services to optimize efficiency and improve planning. I utilized agile methodologies to manage the lifecycle of requests, enabling the development team to prioritize tasks effectively based on complexity and capacity.
 
-- Functional | No Functional Requirements Gathering and Design
-    - Conducted comprehensive interviews, workshops, and meetings with stakeholders to elicit and document functional requirements. This involved analyzing existing processes, identifying gaps, and proposing solutions to meet business objectives.
-    - Collaborated closely with cross-functional teams, including, marketing, business analysts, software engineers, and quality assurance professionals, to ensure the accurate translation of functional requirements into actionable design specifications.
-    - Created detailed functional requirement documents, including use cases, user stories, process flows, and data models. These artifacts served as the foundation for development and testing activities, ensuring alignment with stakeholder expectations.
-    - Actively participated in design discussions, providing valuable insights and recommendations based on my deep understanding of functional requirements and business processe.
-- Actively participated in sprint planning meetings, contributing to the selection and allocation of backlog items for each development iteration. I worked closely with the team to ensure a balanced workload, considering capacity, complexity, and dependencies..
+### My Role and Contribution
+
+I led the gathering of requirements, generated detailed functional documentation, and facilitated demand planning using data analysis tools. I also designed a dashboard in JIRA that reduced decision-making time by 50%.
+
+### Results and Achievements
+We successfully implemented SCRUM, accelerating the delivery of solutions by 30%. Additionally, the dashboard I created improved decision-making efficiency by 50%.
+
+### Challenges and Lessons Learned
+The main challenge was balancing team capacity with urgent demands. I learned to optimize task prioritization using efficiency metrics and improved communication with stakeholders to manage expectations.

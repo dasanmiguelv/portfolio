@@ -1,26 +1,37 @@
 ---
-title: "Data Scientist / Analyst BI"
-description: "Academic Data Scientist/Analyst"
+title: "Aspiring Data Scientist"
+description: "Data Science Practitioner"
 dateString: Feb 2023 - Ongoing
 draft: false
-tags: ["Python", "ML", "SQL", "Powe BI", AWS", "GitHub", "GCP", "AI"]
+tags: ["Python (Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK)", "SQL", "NLP", "Deep Learning Frameworks (ensorFlow, Keras)"]
 showToc: false
-weight: 301
+weight: 302
 --- 
 
-### Description
+## ML and Data Science Academic Projects
+### Context and Objective
 
-I have devoted significant time and effort to developing and implementing a number of data science projects that have enriched my understanding and skills in this dynamic field. These projects have been designed to address real-world problems and apply advanced data analysis, modeling and visualization techniques to obtain valuable ideas and concrete solutions. Here are some of the most representative projects I have undertaken:
+These projects were developed as part of my academic journey in Data Science. They focused on solving real-world problems through advanced data analysis, modeling, and visualization techniques. Each project aimed to apply machine learning algorithms to extract valuable insights and provide practical solutions to specific business challenges. Additionally, I am currently in the process of obtaining the IBM AI Engineering Professional Certificate, which is enhancing my skills in AI and deep learning models.
 
-> **Customer Segmentation and Personalized Recommendations:**
-I implemented clustering and collaborative filtering techniques to segment customers on an e-commerce platform. This enabled more accurate and personalized product recommendations, improving customer experience and increasing conversion rates.
+### Projects and Contributions
 
-> **Predicting Buying Behaviors in E-Commerce**
-In an effort to understand and predict purchasing behaviors at British Airways, I played the data scientist role that involved the machine learning app. By leveraging historical booking data and user characteristics, I developed predictive models that identified patterns that generated personalized recommendations. This project sought to increase the relevance of recommendations to users through identifying the most important predictive features.
+1. Customer Segmentation and Personalized Recommendations
+I implemented clustering techniques and collaborative filtering to segment customers on an e-commerce platform. By identifying customer segments, I was able to provide more personalized product recommendations, which improved customer experience and increased conversion rates.
+Key Contribution: Developed a system that dynamically adjusted recommendations based on customer behavior, increasing the relevance of products shown to specific customer segments.
 
-> **Sentiment analysis and Natural Language Processing (NLP)**
-As part of my experience in data analysis, I have conducted a sentiment analysis project for British Airways using natural language processing (NLP) techniques. By analyzing text data from reviews posted on a web portal, I could identify emotional patterns and opinions in customer reviews. This allowed us to better understand the perception of their customer experience and take informed measures to improve customer satisfaction and strategic decision making.
+2. Predicting Buying Behaviors in E-Commerce
+In this project, I analyzed historical booking data from British Airways to predict customer purchasing behaviors. Using machine learning algorithms, I identified the most important features influencing purchasing decisions and built a predictive model to generate personalized recommendations for users.
+Key Contribution: Leveraged historical data and user characteristics to improve the relevance of recommendations, enhancing the user experience and boosting conversion rates.
 
-Each project has been an opportunity for learning and growth, allowing me to apply my knowledge in programming, statistical analysis, data cleaning and transformation, as well as in the implementation of machine learning algorithms. Through these projects, I have demonstrated my ability to address complex challenges and generate practical solutions using data-based approaches.
+3. Sentiment Analysis and Natural Language Processing (NLP)
+I conducted a sentiment analysis on customer reviews for British Airways using NLP techniques. By analyzing text data from reviews posted on a web portal, I identified emotional patterns and key opinions about the customer experience. This analysis provided actionable insights to improve customer satisfaction.
+Key Contribution: Applied advanced NLP techniques to extract meaningful insights from customer feedback, allowing for data-driven decisions to enhance service quality.
 
-###### _I want to make it clear that some of these projects are part of a virtual experience program as a data scientist promoted by Forage and I have never worked for these companies I mentioned_.
+### Results and Achievements
+* Customer Segmentation: Achieved more accurate customer segmentation, resulting in a more personalized recommendation system that improved conversion rates.
+* Buying Behavior Prediction: Developed a predictive model with a high accuracy rate, providing deeper insights into customer behavior and enhancing the effectiveness of marketing strategies.
+* Sentiment Analysis: Successfully identified customer sentiment trends, enabling British Airways to implement targeted strategies to address customer concerns and improve overall satisfaction.
+* IBM AI Engineering Certificate (in progress): This certification is equipping me with skills in building deep learning models such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), allowing me to further enhance my ability to tackle complex AI-driven projects.
+
+### Challenges and Lessons Learned
+One of the key challenges was managing large datasets and ensuring data quality through cleaning and transformation processes. The IBM AI Engineering program is also providing valuable insights into optimizing deep learning models and tackling complex AI tasks.

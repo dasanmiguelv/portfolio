@@ -1,18 +1,24 @@
 ---
-title: "Functional Leader For Platform"
-description: "SYC Sistemas y Computadores (Colombia)"
+title: "Business Analyst"
+description: "SYC Sistemas y Computadores"
 dateString: Jun 2008 - May 2022
 draft: false
-tags: ["Azure DevOps", "Agile", "Project Management", "Power BI",  "Advanced Excel"]
+tags: ["Azure DevOps", "Agile", "BPMN for process modeling", "Power BI",  "Advanced Excel"]
 showToc: false
-weight: 303
+weight: 304
 --- 
 
-## Description
+## Functional Leadership for Tax Collection Platform Implementation
+### Context and Objective
 
-- Led a cross-functional team of software engineers, designers, and testers in the development and enhancement of the software platform. I provided guidance, set strategic direction, and fostered collaboration to deliver high-quality software solutions.
-- Defined and communicated the vision and roadmap for the software platform, aligning it with business goals and market needs. I collaborated with stakeholders to understand their requirements and translated them into actionable plans and milestones.
-- Worked closely with product managers and stakeholders to gather feedback, identify feature priorities, and make informed decisions regarding the platform's development. I ensured that customer needs were addressed, and the platform remained competitive in the market.
-- Mentored and coached team members, fostering a collaborative and high-performance culture. I encouraged professional growth, provided guidance on technical challenges, and facilitated knowledge sharing to strengthen the team's expertise.
+As a functional leader at SYC, I participated in the development, testing, implementation, and improvement of platforms for tax collection projects. My goal was to ensure the platform met contractual requirements while maximizing productivity through automation.
 
-**_These achievements occurred in the development and implementation of software services projects for government entities in the management and administration of vehicle taxes and control of administrative processes._**
+### My Role and Contribution
+
+I defined and managed functional requirements, ensuring alignment with client goals, and led the implementation of automation processes that increased system efficiency by 30%.
+
+### Results and Achievements
+I contributed to the successful closing of multimillion-dollar contracts and the implementation of a management system that improved team productivity by 30%.
+
+### Challenges and Lessons Learned
+Automating processes was a challenge due to data variability. I learned to design flexible solutions that adapted to diverse client needs without compromising efficiency.

@@ -12,23 +12,23 @@ menu:
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 20
+      weight: 30
     - identifier: experience
       name: Experience
       url: /experience
-      weight: 50
+      weight: 20
     - identifier: mL-Engineer-on-GCP
       name: ML-Engineer-on-GCP
       url: /mL-Engineer-on-GCP
-      weight: 30
+      weight: 40
     - identifier: bI-Analytics
       name: BI-Analytics
       url: /bI-Analytics
-      weight: 40
-    - identifier: blog
-      name: blog
-      url: /blog
-      weight: 60
+      weight: 50
+    # - identifier: blog
+    #   name: blog
+    #   url: /blog
+    #   weight: 60
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Diego Sanmiguel"
-    subtitle:  ¡Hi! I’m Diego.  I’m passionate about using data to make a positive impact in the world. I have developed personal projects in a variety of areas  to make data-informed decisions through A/B (hypothesis) testing and experimentation, predictive modeling, defining new metrics. Primarily use Python, SQL. I also have extensive experience in project management and have an ability to lead and motivate teams to achieve goals.
+    subtitle:  Passionate about turning data into actionable insights, I am a Systems Engineer with over 14 years of experience as a Business Analyst and Functional Leader. I specialize in translating complex business requirements into technical solutions that drive efficiency and innovation. Currently, I am transitioning into Data Science, leveraging my expertise in data analysis and machine learning to solve real-world problems. As I pursue the IBM AI Engineering Professional Certificate, I am eager to apply my advanced data-driven approaches to help organizations make smarter, data-backed decisions. Let's connect and explore how I can bring value to your team.
     imageUrl: "home/WhatsApp Image 2022-01-06 at 3.42.45 PM.jpeg"
     imageWidth: 220
     imageHeight: 220
@@ -73,11 +73,11 @@ params:
     - name: "email"
       url: "mailto:dasanmiguel31@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/diegosanmiguelvargas/"
+      url: "https://www.linkedin.com/in/diego-sanmiguel-vargas/"
     - name: "github"
       url: "https://github.com/dasanmiguelv"    
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1oUfV7ql28iZz4WKBVzBPsQSyZUTiRHIL/view?usp=drive_link"
+    #- name: "cv"
+    #  url: "https://drive.google.com/file/d/1oUfV7ql28iZz4WKBVzBPsQSyZUTiRHIL/view?usp=drive_link"
 
   # text search
   fuseOpts:
